@@ -14,3 +14,9 @@ td {
     border: 1px solid #ddd;
     background-color: #fffacd;
 }
+
+td {
+    padding: 10px;
+    border: 1px solid #bbb;
+    background-color: #e6ffe6;
+}
