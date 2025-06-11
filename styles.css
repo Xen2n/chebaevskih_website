@@ -1,0 +1,31 @@
+h1 {
+    font-size: 2.5em;
+    color: purple;
+    text-shadow: 1px 1px 2px black;
+
+th {
+    background-color: #f2f2f2;
+    color: navy;
+    border: 1px solid #ccc;
+}
+
+td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    background-color: #fffacd;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #bbb;
+    background-color: #e6ffe6;
+}
+
+footer a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer a:hover {
+    color: #007BFF;
+}
